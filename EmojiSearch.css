@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(241, 193, 122);
+    background-image: url('https://img.freepik.com/free-vector/flat-world-emoji-day-background-with-emoticons_23-2149439351.jpg');
+    background-size: cover;
+}
+input{
+    height: 50px;
+    width: 250px;
+    font-size: 25px;
+    letter-spacing: 1.5px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.Container{
+    margin-top: 10px;
+    
+    
+} 
+.Main{
+    height: 200px;
+    width: 400px;
+    border: 3px solid rgb(220, 103, 80);
+    margin: auto;
+    margin-top: 12%;
+    border-radius: 20px;
+    background-color: rgb(232, 220, 176);
+}
